@@ -9,8 +9,11 @@ Match Percentage: Computes the resume-job description match score.
 
 🚀 Features
 ✅ Uses Google Gemini AI for intelligent resume analysis.
+
 ✅ Converts PDF resumes into images for AI processing.
+
 ✅ Provides detailed feedback on strengths, weaknesses, and missing keywords.
+
 ✅ Built using Streamlit for an interactive UI.
 
 🛠️ Requirements
@@ -39,8 +42,11 @@ streamlit run app.py
 
 📜 How It Works
 Upload your resume (PDF format).
+
 Enter the job description.
+
 Click the analysis button to get AI-powered insights.
+
 View the match percentage, missing keywords, and improvement suggestions.
 
 
